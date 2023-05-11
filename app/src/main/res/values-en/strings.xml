@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="btnAceptar">Acept</string>
+    <string name="btnAceptar2">Something</string>
+</resources>
