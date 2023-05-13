@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent);
 
         }else{
-            Toast.makeText(this, "Datos Invalidos", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Datos NO Validos", Toast.LENGTH_SHORT).show();
         }
     }
 
